@@ -20,4 +20,6 @@ Resume the music.
 /stop
 
 Stops the bot entirely.
+
+
 ![RythmX Bot](image/rythmx.png)
